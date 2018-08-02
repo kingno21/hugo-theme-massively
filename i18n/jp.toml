@@ -1,0 +1,24 @@
+[CONTACT_ADDRESS]
+  other = "アドレス"
+[CONTACT_EMAIL]
+  other = "Email"
+[CONTACT_FORM_FIELD_EMAIL]
+  other = "メール"
+[CONTACT_FORM_FIELD_MESSAGE]
+  other = "メッセージ"
+[CONTACT_FORM_FIELD_NAME]
+  other = "名前"
+[CONTACT_FORM_SUBMIT_SEND_MESSAGE]
+  other = "メッセージを送る"
+[CONTACT_PHONE]
+  other = "Phone"
+[CONTACT_SOCIAL]
+  other = "Social"
+[INTRO_CONTINUE]
+  other = "Continue"
+[NAV_CONTACT]
+  other = "Contact"
+[PAGINATION_NEXT]
+  other = "次へ"
+[PAGINATION_PREVIOUS]
+  other = "前へ"
