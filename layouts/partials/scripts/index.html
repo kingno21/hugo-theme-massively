@@ -5,5 +5,13 @@
 <script src='{{ "assets/js/skel.min.js" | relURL }}'></script>
 <script src='{{ "assets/js/util.js" | relURL }}'></script>
 <script src='{{ "assets/js/main.js" | relURL }}'></script>
-<script src='{{ "assets/js/gtag.js" | relURL }}'></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-104949268-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-104949268-2');
+</script>
 
